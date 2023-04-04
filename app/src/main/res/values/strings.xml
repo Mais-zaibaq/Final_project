@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Zaibaq</string>
+    <string name="next">التالي</string>
+    <string name="text_1">تمتع في التسوق الكترونيا\nفي متجرنا</string>
+    <string name="text_2">يتميز تطبيقنا بعرض \n أفضل المنتجات والخدمات</string>
+    <string name="text_3">تستطيع الدفع بأكثر \n من طريقة في متجرنا</string>
+    <string name="skip">تخطي</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="userName">اسم المستخدم</string>
+    <string name="tv_regester_1">ليس لديك حساب؟</string>
+    <string name="pass">كلمة المرور</string>
+    <string name="forget_pass">هل نسيت كلمة المرور</string>
+    <string name="tv_regester_2">انشاء حساب جديد</string>
+    <string name="regester">انشاء حساب جديد</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="tv_login_1">هل لديك حساب؟</string>
+    <string name="tv_login_2">سجل الدخول</string>
+    <string name="reset_pass">تأكيد كلمة المرور</string>
+    <string name="m">البحث</string>
+    <string name="n1">الكل</string>
+    <string name="n2">كنب</string>
+    <string name="s">ستائر</string>
+    <string name="sk">سجاد</string>
+    <string name="home">home</string>
+    <string name="buy">buy</string>
+    <string name="heart">heart</string>
+    <string name="user">profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
